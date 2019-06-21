@@ -12,8 +12,6 @@
                 <input type="text" name="Address"><br>
         Address2:<br>
                 <input type="text" name="Address"><br>
-        Address3:<br>
-                <input type="text" name="Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
 </form> 
