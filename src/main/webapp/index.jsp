@@ -6,8 +6,6 @@
 <form>
 	First name:<br>
 	 	<input type="text" name="firstname"><br>
-        Middle name:<br>
-                <input type="text" name="midname"><br>
         Last name:<br>
                 <input type="text" name="lastname"><br>
         Address:<br>
